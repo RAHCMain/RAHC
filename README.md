@@ -1,4 +1,5 @@
 # CUB-200-2011 Hierarchical Long-Text Dataset
+![在这里插入图片描述](https://github.com/RAHCMain/RAHC/blob/main/CUB_hierarchical_tree.png)
 Text descriptions for all 13 orders, 38 families and 200 species can be found in `CUB_13Class2Text_dict.json`, `CUB_38Class2Text_dict.json` and `CUB_200Class2Text_dict.json` respectively.
 ## 13 Order Categories
 ```csharp
@@ -17,6 +18,7 @@ Black_footed_Albatross: Body Size: Medium-sized albatross (70–80 cm in length)
 ```
 
 # Aircraft Hierarchical Long-Text Dataset
+![在这里插入图片描述](https://github.com/RAHCMain/RAHC/blob/main/Aircraft_hierarchical_tree.png)
 Text descriptions for all 30 makers, 70 families and 100 models can be found in `Air_30Class2Text_dict.json`, `Air_70Class2Text_dict.json` and `Air_100Class2Text_dict.json` respectively.
 ## 30 Maker Categories
 ```csharp
